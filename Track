@@ -1,3 +1,4 @@
+day = line - 3
 Date --> Platform --> Topic --> No. of question --> Mode
 8/01/22 --> Leetcode --> Array --> 5 --> Easy
 8/01/22 --> HackerRank --> LinkedList --> 4 --> Easy
@@ -7,4 +8,5 @@ Date --> Platform --> Topic --> No. of question --> Mode
 23/01/22 --> HackerRank --> String --> 2 --> Easy
 24/01/22 --> HackerRank --> String --> 2 --> Easy, Med
 25/01/22 --> HackerRank --> String --> 1 --> Easy
-26/01/22 --> HackerRank --> Searching --> 1 --> Easy
+26/01/22 --> HackerRank --> Sorting --> 1 --> Easy
+27/01/22 --> HackerRank --> Sorting --> 2 --> Easy, Med
